@@ -1,0 +1,35 @@
+BG_DARK = "#1e1e1e"         
+BG_CARD = "#252526"          
+BG_INPUT = "#333333"         
+BG_HOVER = "#2a2d2e"         
+BG_SIDEBAR = "#1e1e1e"       
+
+ACCENT_BLUE = "#007acc"      
+ACCENT_BLUE_DIM = "#005a9e"  
+ACCENT_GREEN = "#3fb950"   
+ACCENT_RED = "#f85149"      
+ACCENT_YELLOW = "#d29922"   
+ACCENT_ORANGE = "#db6d28"   
+
+TEXT_PRIMARY = "#cccccc"    
+TEXT_SECONDARY = "#999999"  
+TEXT_MUTED = "#666666"      
+
+BORDER_COLOR = "#3c3c3c"
+BORDER_SUBTLE = "#333333"
+
+FONT_HEADING = ("Segoe UI", 22, "bold")
+FONT_SUBHEADING = ("Segoe UI", 16, "bold")
+FONT_BODY = ("Segoe UI", 14)
+FONT_SMALL = ("Segoe UI", 12)
+FONT_MONO = ("Consolas", 13)
+FONT_BUTTON = ("Segoe UI", 14, "bold")
+FONT_SIDEBAR = ("Segoe UI", 14)
+
+SIDEBAR_WIDTH = 220
+WINDOW_MIN_WIDTH = 1100
+WINDOW_MIN_HEIGHT = 700
+PADDING = 14
+PADDING_SMALL = 8
+CORNER_RADIUS = 8
+BUTTON_HEIGHT = 40

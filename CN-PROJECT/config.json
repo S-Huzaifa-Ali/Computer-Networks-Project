@@ -1,0 +1,35 @@
+{
+    "server": {
+        "host": "127.0.0.1",
+        "smtp_port": 2525,
+        "retrieval_port": 2526,
+        "max_clients": 10,
+        "timeout": 300
+    },
+    "domains": [
+        "nu.edu.pk",
+        "gmail.com",
+        "yahoo.com",
+        "hotmail.com",
+        "outlook.com"
+    ],
+    "queue": {
+        "max_retries": 3,
+        "retry_delay_seconds": 10,
+        "worker_interval": 3
+    },
+    "tls": {
+        "enabled": true,
+        "cert_file": "certs/server.crt",
+        "key_file": "certs/server.key"
+    },
+    "database": {
+        "path": "data/smtp_server.db"
+    },
+    "logging": {
+        "level": "DEBUG",
+        "log_file": "logs/server.log",
+        "max_bytes": 5242880,
+        "backup_count": 3
+    }
+}

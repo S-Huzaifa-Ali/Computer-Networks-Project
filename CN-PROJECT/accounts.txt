@@ -1,0 +1,23 @@
+=== Registered Users and Domains ===
+
+Domain: nu.edu.pk
+- huzaifa@nu.edu.pk (Password: huzaifa123)
+- haris@nu.edu.pk (Password: haris123)
+
+Domain: gmail.com
+- ali.khan@gmail.com (Password: ali123)
+- ahmed.raza@gmail.com (Password: ahmed123)
+
+Domain: yahoo.com
+- fatima.zahra@yahoo.com (Password: fatima123)
+- ayesha.sid@yahoo.com (Password: ayesha123)
+
+Domain: hotmail.com
+- omar.farooq@hotmail.com (Password: omar123)
+- zain.malik@hotmail.com (Password: zain123)
+
+Domain: outlook.com
+- sara.ahmed@outlook.com (Password: sara123)
+- bilal.hassan@outlook.com (Password: bilal123)
+
+Note: All passwords are just the first name in lowercase + 123.
