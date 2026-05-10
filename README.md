@@ -71,6 +71,12 @@ Use any of the registered accounts:
 | 535 | Authentication failed |
 | 550 | Mailbox not found |
 
+
+## Demo
+
+https://github.com/S-Huzaifa-Ali/Computer-Networks-Project/releases/download/v1.0/CN.Project.Demo.mp4
+
+
 ## References
 
 - RFC 5321 – Simple Mail Transfer Protocol
