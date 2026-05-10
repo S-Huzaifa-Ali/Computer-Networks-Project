@@ -1,14 +1,6 @@
-"""
-SMTP Server entry point.
-Initializes and starts the multi-threaded SMTP server.
-
-Usage: python run_server.py
-"""
-
 import sys
 import os
 
-# add project root to path
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 from server.smtp_server import SmtpServer
@@ -22,7 +14,6 @@ def main():
     print("=" * 50)
     print()
 
-    # check if database exists
     if not os.path.exists("data/smtp_server.db"):
         print("[WARNING] Database not found!")
         print("Run 'python setup_database.py' first to initialize the database.")
