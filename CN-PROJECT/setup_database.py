@@ -8,10 +8,6 @@ from core.auth_manager import AuthManager
 
 
 def seed_users(auth_manager):
-    """
-    Register the 10 default users across all 5 domains.
-    These are the accounts students will use during the demo.
-    """
     users = [
         ("huzaifa@nu.edu.pk", "huzaifa123", "Huzaifa"),
         ("haris@nu.edu.pk", "haris123", "Haris"),
